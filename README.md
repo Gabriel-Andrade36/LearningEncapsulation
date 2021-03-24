@@ -1,4 +1,4 @@
-# <h1> LearningEncapsulation
+# <h1> LearningEncapsulation &#x1F468;</h1> 
   
-A simple project where I tried some codes while I was learning encapsulation.
+A simple project where I tried some codes while I was <mark style="background-color: rgba(0, 0, 0, 0.411);">learning encapsulation</mark>.
 
